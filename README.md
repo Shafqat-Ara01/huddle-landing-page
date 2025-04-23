@@ -3,8 +3,8 @@ A responsive landing page inspired by the Huddle community-building platform des
 
 ## 💻 Demo
 
-![Huddle Preview]((https://github.com/user-attachments/assets/8d4a03b1-2888-4669-a47b-31530b480bcf)
-) 
+![Huddle Preview](https://github.com/user-attachments/assets/8d4a03b1-2888-4669-a47b-31530b480bcf)
+ 
 
 ## 🛠️ Technologies Used
 
